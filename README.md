@@ -12,7 +12,7 @@ Testing whether modern SOTA "generalist" models (like LLaVA) have incidentally l
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/krishnankonda/vlm-grounding-analysis
 cd flickr30k-vision-language-comparison
 ```
 
