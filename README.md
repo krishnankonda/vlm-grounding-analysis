@@ -1,4 +1,4 @@
-# A Comparative Analysis of Specialist vs. Generalist Vision-Language Models on the Flickr30k Entities Grounding Benchmark
+# Comparative Analysis of Specialist vs. Generalist Vision-Language Models on the Flickr30k Entities Grounding Benchmark
 
 ## Project Overview
 
